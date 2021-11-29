@@ -3,6 +3,9 @@ A 3D unity example scene of [CptPotato's](https://github.com/CptPotato/GodotThin
 
 To get the filter on your 3D objects set the filter to bilinear filtering on the imported textures under the advanced tab, import your 3D objects and apply the 3DSmoothPixel shader to your material.
 
+[Video example](https://www.youtube.com/watch?v=Zxk35wZu4oE)
+
+
 an Example: 
 
 ![Example of the 3D effect](https://i.imgur.com/3g6QKQX.png)
